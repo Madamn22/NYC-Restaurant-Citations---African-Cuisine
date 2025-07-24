@@ -4,7 +4,7 @@
 Final Project Template
 DS 542
 
-My Name: Adwoa D Nicol
+My Name: Adwoa N.
 My Cuisine: African
 """
 
